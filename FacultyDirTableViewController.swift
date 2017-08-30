@@ -2,6 +2,8 @@
 //  FacultyDirTableViewController.swift
 //  amsl_mobile_rough_v1
 //
+//  View Controller for Faculty Directory
+//
 //  Created by Matthew Myers on 8/8/17.
 //  Copyright © 2017 Ave Maria School of Law. All rights reserved.
 //
